@@ -75,7 +75,7 @@ The dashboard can be used to identify:
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](Images/dashboard.png)
+![HR Analytics Dashboard](dashboard.png)
 
 ## 📁 Project Structure
 
